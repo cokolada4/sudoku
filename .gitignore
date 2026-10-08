@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+saves/
+error.log
+tests_tmp*/
+/home/jules/verification/

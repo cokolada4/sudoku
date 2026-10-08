@@ -1,0 +1,29 @@
+{
+    "app_title": "Killer Sudoku",
+    "settings": {
+        "highlight_row": true,
+        "highlight_column": true,
+        "highlight_box": true,
+        "highlight_same_numbers": true,
+        "enable_notes": true,
+        "enable_timer": true,
+        "enable_autosave": true,
+        "autosave_interval": 30
+    },
+    "appearance": {
+        "window_width": 900,
+        "window_height": 900,
+        "cell_size": 70,
+        "background": "#FFFFFF",
+        "grid_color": "#CCCCCC",
+        "box_line_color": "#000000",
+        "cage_line_color": "#2A65A0",
+        "selected_color": "#B3D8FF",
+        "highlight_color": "#EAF2FC",
+        "same_number_color": "#CCE5FF",
+        "error_color": "#FFCCCC",
+        "given_font_color": "#000000",
+        "player_font_color": "#002288",
+        "note_font_color": "#666666"
+    }
+}
